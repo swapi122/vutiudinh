@@ -1,3 +1,7 @@
+/*
+ * Tran Dih Vhu
+ * nhóm 06
+ */
 package HelloWorld;
 
 public class HelloWorld {
